@@ -11,7 +11,7 @@
       >
         Ready to dive in?
         <br />
-        <span class="text-orange-600">Vite + Vue 3 + Tailwind CSS</span>
+        <span class="text-orange-600">bob ross + arthoughts</span>
       </h2>
       <div class="flex mt-8 lg:flex-shrink-0 lg:mt-0">
         <div class="inline-flex rounded-md shadow">
@@ -24,4 +24,6 @@
       </div>
     </div>
   </div>
+  <!-- <div class="h-screen bg-green-400"></div>
+  <div class="h-screen bg-blue-400"></div> -->
 </template>

@@ -1,26 +1,27 @@
 <template>
   <div>
-    <nav-bar></nav-bar>
-    <header class="bg-white shadow" v-if="$route.meta.title">
-      <div class="px-4 py-6 mx-auto max-w-7xl sm:px-6 lg:px-8">
-        <h1
-          class="text-3xl font-bold leading-tight text-gray-900"
-        >
-          {{ $route.meta.title }}
-        </h1>
-      </div>
-    </header>
-    <main>
+    <nav-bar></nav-bar>   
+    <para-header></para-header>
       <router-view />
-    </main>
+
+    <div class="h-screen"></div>
+    <footer class="text-center py-4 bg-stone-700 text-stone-900">
+      <p>&copy 2022 arthoughts.com</p>
+    </footer>
   </div>
 </template>
 
 <script>
-import NavBar from '@/components/NavBar.vue'
-export default {
+  import NavBar from '@/components/NavBar.vue'
+  import ParaHeader from '@/components/ParaHeader.vue'
+  export default {
+    
     components: {
-      NavBar
+      NavBar, ParaHeader
     },
+    
   }
 </script>
+
+<style>
+</style>
