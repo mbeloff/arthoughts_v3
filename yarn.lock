@@ -1815,10 +1815,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.3.9.tgz#152c6c20a7688c30b967ec1841d31ace569863fc"
   integrity sha512-L/TMpyURfBkf+o/526Zb6kd/tchUP3iBDEPjqjb+U2MAJhVRxxrmr2fwpe08E7QsV7YLcpq0tUaQ9O9x97ZIxQ==
 
-"@types/tailwindcss@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@types/tailwindcss/-/tailwindcss-3.0.1.tgz#366d4028a3b605a5e63253b3dea34c425d6f6d48"
-  integrity sha512-0uQS44Y4HYpANZO+xrrrQg9P82v6ZjGcZihbH5UpsZXCGQDMyY8oWUBhsx5LGJcJ/Nyfl3WdGq/4pXHNNyeD4Q==
+"@types/tailwindcss@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/tailwindcss/-/tailwindcss-3.0.4.tgz#ece342b039cb067cf46104c416bb9f9fec128691"
+  integrity sha512-ICFSmSeBMqPCpa3/fIGt4jjLbbIxqpV3pZeniosFIZ3dEWxSJH+6j0Gm3GOLnUQ18/bOiIFjuH3Tha+WhogiOA==
 
 "@types/yargs-parser@*":
   version "20.2.1"
